@@ -1,0 +1,335 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-jsEegt AqAkc"
+  >
+    <div
+      class="sc-gYrpUN gxFgWv"
+    >
+      <div
+        class="sc-kFCsca hWuohB"
+      >
+        <div
+          class="sc-ifyqMZ huQYia"
+        >
+          <h2
+            class="sc-dJGLCQ"
+          >
+            Tuesday, March 7, 2023
+          </h2>
+          <button
+            class="sc-hABAzo sc-blmETK hnCpkN eRXvwR"
+          >
+            Add reminder
+          </button>
+        </div>
+        <div
+          class="sc-csKIKE hXHnVS"
+        >
+          <img
+            alt="no-reminders.png"
+            class="sc-brSaZW"
+            src="no-reminders.png"
+          />
+          <h2
+            class="sc-ktwOSD"
+          >
+            No reminders registered so far
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-qZqnM jLeaUL"
+    >
+      <div
+        class="sc-beySbM boVawX"
+      >
+        <div
+          class="sc-dmyDGi iCdgqr"
+        >
+          2023
+        </div>
+        <div
+          class="sc-guDLRT cjNhkc"
+        >
+          March
+        </div>
+        <div
+          class="sc-hLQRIN jEgeFZ"
+        >
+          <div
+            class="sc-eDLJxc hueVUY"
+          >
+            &lt;
+          </div>
+          <div
+            class="sc-jTQDnj cdamwV"
+          >
+            •
+          </div>
+          <div
+            class="sc-eDLJxc hueVUY"
+          >
+            &gt;
+          </div>
+        </div>
+        <div
+          class="sc-gLLvby fEeyzK"
+        >
+          <div
+            class="sc-iBdmCd iNnggi"
+          >
+            <strong>
+              MON
+            </strong>
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+          >
+            <strong>
+              TUE
+            </strong>
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+          >
+            <strong>
+              WED
+            </strong>
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+          >
+            <strong>
+              THU
+            </strong>
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+          >
+            <strong>
+              FRI
+            </strong>
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+          >
+            <strong>
+              SAT
+            </strong>
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+          >
+            <strong>
+              SUN
+            </strong>
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="-1"
+          />
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="0"
+          />
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="1"
+          >
+            1
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="2"
+          >
+            2
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="3"
+          >
+            3
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="4"
+          >
+            4
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="5"
+          >
+            5
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="6"
+          >
+            6
+          </div>
+          <div
+            class="sc-iBdmCd kYlqSU"
+            data-testid="7"
+          >
+            7
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="8"
+          >
+            8
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="9"
+          >
+            9
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="10"
+          >
+            10
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="11"
+          >
+            11
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="12"
+          >
+            12
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="13"
+          >
+            13
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="14"
+          >
+            14
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="15"
+          >
+            15
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="16"
+          >
+            16
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="17"
+          >
+            17
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="18"
+          >
+            18
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="19"
+          >
+            19
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="20"
+          >
+            20
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="21"
+          >
+            21
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="22"
+          >
+            22
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="23"
+          >
+            23
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="24"
+          >
+            24
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="25"
+          >
+            25
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="26"
+          >
+            26
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="27"
+          >
+            27
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="28"
+          >
+            28
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="29"
+          >
+            29
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="30"
+          >
+            30
+          </div>
+          <div
+            class="sc-iBdmCd iNnggi"
+            data-testid="31"
+          >
+            31
+          </div>
+        </div>
+        <footer
+          class="sc-fsYeqs kLtofk"
+        >
+          @ 2020 Codelitt Inc All rights reserved
+        </footer>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

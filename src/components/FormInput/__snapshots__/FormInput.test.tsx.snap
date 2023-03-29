@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form Input Should render FormInput component correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dmyDGi VDlCT"
+  >
+    <label
+      class="sc-beySbM dgdslS"
+    >
+      test
+    </label>
+    <input
+      class="sc-guDLRT hoErlo"
+    />
+  </div>
+</DocumentFragment>
+`;

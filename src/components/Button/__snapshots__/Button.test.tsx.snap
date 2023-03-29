@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Should render Button component correctly 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-beySbM haKdpM"
+  />
+</DocumentFragment>
+`;

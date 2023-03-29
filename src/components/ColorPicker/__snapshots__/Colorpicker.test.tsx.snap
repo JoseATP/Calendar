@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColorPicker Should render ColorPicker component correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-beySbM iXmWJf"
+  >
+    <span
+      class="sc-dmyDGi ijvIZH"
+    >
+      Color
+    </span>
+    <div
+      class="sc-guDLRT hsgeSm"
+    >
+      <div
+        class="sc-hLQRIN koAene"
+        color="#C8E6C9"
+        data-testid="color-#C8E6C9"
+      />
+      <div
+        class="sc-hLQRIN iqHqeY"
+        color="#F5DD29"
+        data-testid="color-#F5DD29"
+      />
+      <div
+        class="sc-hLQRIN ewxdLE"
+        color="#FFCC80"
+        data-testid="color-#FFCC80"
+      />
+      <div
+        class="sc-hLQRIN cnElvf"
+        color="#EF9A9A"
+        data-testid="color-#EF9A9A"
+      />
+      <div
+        class="sc-hLQRIN fqgqSH"
+        color="#CD8DE5"
+        data-testid="color-#CD8DE5"
+      />
+      <div
+        class="sc-hLQRIN hmwvBX"
+        color="#5BA4CF"
+        data-testid="color-#5BA4CF"
+      />
+      <div
+        class="sc-hLQRIN dKhOhk"
+        color="#6DECA9"
+        data-testid="color-#6DECA9"
+      />
+      <div
+        class="sc-hLQRIN YZWlB"
+        color="#FF8ED4"
+        data-testid="color-#FF8ED4"
+      />
+      <div
+        class="sc-hLQRIN epqrTA"
+        color="#BCAAA4"
+        data-testid="color-#BCAAA4"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
